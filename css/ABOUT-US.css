@@ -1,4 +1,21 @@
-body
+*
 {
-    background-color: rgb(35, 202, 202);
+    background-color: rgb(28, 212, 212);
+}
+
+h2
+{
+    font-family: 'Dancing Script', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
+ 
+h3
+ {
+    font-family: 'Pacifico', fantasy;
+ }
+
+ nav
+{
+    font-size:medium
+color: black;
+font-family: Helvetica, Arial, sans-serif
 }

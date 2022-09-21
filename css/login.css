@@ -68,7 +68,19 @@ form {
       width: 100%;
     }
   }
-  body
+  *
   {
     background-color: darkturquoise;
   }
+  
+nav
+{
+    font-size:medium
+color: black;
+font-family: Helvetica, Arial, sans-serif
+}
+
+nav
+{
+    background-color: aqua;
+}
